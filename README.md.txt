@@ -62,7 +62,8 @@ define('DB_DATABASE', 'sample');
 $ cd /var/www/html
 $ >SamplePage.php
    nano SamplePage.php
-                
+ #########
+ Add mysql-php code to samplepage.php
                 
 
 
